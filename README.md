@@ -1,5 +1,7 @@
 # Kirill Markin muzzle
 
+## How to run locally
+
 Run bundle install:
 
 ```bash
