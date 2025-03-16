@@ -13,7 +13,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "career_consulting"
     category_id: "for_people"
@@ -28,7 +28,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "telegram_chatgpt_subscription"
     category_id: "for_people"
@@ -58,7 +58,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   # Category: For Business
 
@@ -70,7 +70,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "analytics_department_audit"
     category_id: "for_business"
@@ -86,7 +86,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "rnd_department_audit"
     category_id: "for_business"
@@ -102,7 +102,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "ai_product_support"
     category_id: "for_business"
@@ -118,7 +118,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "training_for_programmers"
     category_id: "for_business"
@@ -154,7 +154,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "ai_tech_support"
     category_id: "for_business"
@@ -163,7 +163,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "financial_data_sync"
     category_id: "for_business"
@@ -180,7 +180,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "optimal_ai_setup"
     category_id: "for_business"
@@ -196,7 +196,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "implementation_project"
     category_id: "for_business"
@@ -212,7 +212,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "dashboards_and_alerts"
     category_id: "for_business"
@@ -221,7 +221,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "hire_ai_team"
     category_id: "for_business"
@@ -237,7 +237,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "hire_analytics_team"
     category_id: "for_business"
@@ -253,7 +253,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "consulting"
     category_id: "for_business"
@@ -269,7 +269,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   # Category: For Journalists
 
@@ -289,7 +289,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "article"
     category_id: "for_journalists"
@@ -307,7 +307,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "comment_quote"
     category_id: "for_journalists"
@@ -321,7 +321,7 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
 
   - service_id: "interview"
     category_id: "for_journalists"
@@ -330,4 +330,4 @@ services:
     logo_url: ""
     promo_text: ""
     button_text: "Book a call"
-    button_url: "____"
+    button_url: "https://calendar.app.google/pgnsq3MDbKkVwviV8"
